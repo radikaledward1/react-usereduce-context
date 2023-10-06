@@ -1,0 +1,26 @@
+body {
+  background-color: skyblue;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.heading .title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.heading .btnAdd {
+  display: flex;
+  margin-left: 30px;
+  text-decoration: underline;
+}
+
+.btnSave {
+  color: blue;
+  margin-left: 30px;
+  text-decoration: underline;
+}
